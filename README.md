@@ -27,7 +27,8 @@ Para isso execute o comando:
 npm install prompt-sync
 ```
 
-✔ Executando os Exercícios
+✔Executando os Exercícios:
+
 Cada arquivo .js na raiz do projeto corresponde a um exercício da lista (ex: ex001.js, ex002.js, etc.). Para executar um exercício específico, utilize o comando node seguido do nome do arquivo no terminal, estando dentro da pasta do projeto.
 Por exemplo, para executar o ex001.js:
  ```bash
