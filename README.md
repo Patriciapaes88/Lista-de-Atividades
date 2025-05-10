@@ -7,19 +7,22 @@ Este projeto corresponde à primeira lista de práticas do curso de Desenvolvime
 ✔Pré-Requisitos Antes de iniciar, é essencial que você tenha o Node.js e o Visual Studio Code configurados em seu computador.
 
 ⚙️ Instalação
-1-Clone este repositório:
+1. Clone este repositório:
+
      ```bash
-    -  git clone https://github.com/Patriciapaes88/Lista-de-Atividades.git
-    +  git clone https://github.com/Patriciapaes88/Lista-de-Atividades.git
-    cd seu-repositório
+      git clone https://github.com/Patriciapaes88/Lista-de-Atividades.git
+      cd seu-repositório
       ```
-2-Instale a única dependência necessária:
+
+2. Instale a única dependência necessária:
+
      ```bash
       npm install
       ```
 
  🚨 Este projeto utiliza apenas a biblioteca prompt-sync para permitir a entrada de dados pelo terminal.
 Para isso execute o comando:
+
  ```bash
 npm install prompt-sync
 ```
