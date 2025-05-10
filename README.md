@@ -8,10 +8,10 @@ Este projeto corresponde à primeira lista de práticas do curso de Desenvolvime
 
 ⚙️ Instalação
 1-Clone este repositório:
-
-       ```bash
-      git clone https://github.com/Patriciapaes88/Lista-de-Atividades.git
-      cd seu-repositório
+     ```bash
+    -  git clone https://github.com/Patriciapaes88/Lista-de-Atividades.git
+    +  git clone https://github.com/Patriciapaes88/Lista-de-Atividades.git
+    cd seu-repositório
       ```
 2-Instale a única dependência necessária:
      ```bash
